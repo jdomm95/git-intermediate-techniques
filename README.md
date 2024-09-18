@@ -24,3 +24,4 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/git-intermediate-techniques-16077011?dApp=59033956
 [lil-thumbnail-url]: https://cdn.lynda.com/course/3082618/3082618-1668022974716-16x9.jpg
+# git-intermediate-techniques
